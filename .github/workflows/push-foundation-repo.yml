@@ -1,4 +1,4 @@
-name: Sync Cardinal-Cryptography repo with Aleph-Zero-Foundation repo
+name: Sync Cardinal-Cryptography repo with Aleph-Zero-Foundation repo.
 
 on:
   workflow_run:
